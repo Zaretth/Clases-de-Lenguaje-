@@ -1,0 +1,223 @@
+C:\Archivos Jose\Estudio\Semestre 2\Materias\Lenguajes de programacion\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\Content\Sprite.xnb
+C:\Archivos Jose\Estudio\Semestre 2\Materias\Lenguajes de programacion\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\ClaseDeMonogame.exe
+C:\Archivos Jose\Estudio\Semestre 2\Materias\Lenguajes de programacion\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\ClaseDeMonogame.pdb
+C:\Archivos Jose\Estudio\Semestre 2\Materias\Lenguajes de programacion\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Archivos Jose\Estudio\Semestre 2\Materias\Lenguajes de programacion\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Archivos Jose\Estudio\Semestre 2\Materias\Lenguajes de programacion\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Archivos Jose\Estudio\Semestre 2\Materias\Lenguajes de programacion\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Archivos Jose\Estudio\Semestre 2\Materias\Lenguajes de programacion\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Archivos Jose\Estudio\Semestre 2\Materias\Lenguajes de programacion\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Archivos Jose\Estudio\Semestre 2\Materias\Lenguajes de programacion\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Archivos Jose\Estudio\Semestre 2\Materias\Lenguajes de programacion\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Archivos Jose\Estudio\Semestre 2\Materias\Lenguajes de programacion\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Archivos Jose\Estudio\Semestre 2\Materias\Lenguajes de programacion\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Archivos Jose\Estudio\Semestre 2\Materias\Lenguajes de programacion\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Archivos Jose\Estudio\Semestre 2\Materias\Lenguajes de programacion\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Archivos Jose\Estudio\Semestre 2\Materias\Lenguajes de programacion\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Archivos Jose\Estudio\Semestre 2\Materias\Lenguajes de programacion\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Archivos Jose\Estudio\Semestre 2\Materias\Lenguajes de programacion\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Archivos Jose\Estudio\Semestre 2\Materias\Lenguajes de programacion\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Archivos Jose\Estudio\Semestre 2\Materias\Lenguajes de programacion\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Archivos Jose\Estudio\Semestre 2\Materias\Lenguajes de programacion\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Archivos Jose\Estudio\Semestre 2\Materias\Lenguajes de programacion\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\obj\x86\Debug\ClaseDeMonogame.csprojResolveAssemblyReference.cache
+C:\Archivos Jose\Estudio\Semestre 2\Materias\Lenguajes de programacion\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\obj\x86\Debug\ClaseDeMonogame.exe
+C:\Archivos Jose\Estudio\Semestre 2\Materias\Lenguajes de programacion\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\obj\x86\Debug\ClaseDeMonogame.pdb
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\Content\Sprite.xnb
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\ClaseDeMonogame.exe
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\ClaseDeMonogame.pdb
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\obj\x86\Debug\ClaseDeMonogame.csprojResolveAssemblyReference.cache
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\obj\x86\Debug\ClaseDeMonogame.exe
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C11 - Monogame1\ClaseDeMonogame\ClaseDeMonogame\obj\x86\Debug\ClaseDeMonogame.pdb
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C12 - Monogame2\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\Content\Sprite.xnb
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C12 - Monogame2\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\ClaseDeMonogame.exe
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C12 - Monogame2\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\ClaseDeMonogame.pdb
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C12 - Monogame2\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C12 - Monogame2\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C12 - Monogame2\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C12 - Monogame2\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C12 - Monogame2\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C12 - Monogame2\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C12 - Monogame2\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C12 - Monogame2\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C12 - Monogame2\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C12 - Monogame2\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C12 - Monogame2\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C12 - Monogame2\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C12 - Monogame2\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C12 - Monogame2\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C12 - Monogame2\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C12 - Monogame2\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C12 - Monogame2\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C12 - Monogame2\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C12 - Monogame2\ClaseDeMonogame\ClaseDeMonogame\obj\x86\Debug\ClaseDeMonogame.csprojResolveAssemblyReference.cache
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C12 - Monogame2\ClaseDeMonogame\ClaseDeMonogame\obj\x86\Debug\ClaseDeMonogame.exe
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C12 - Monogame2\ClaseDeMonogame\ClaseDeMonogame\obj\x86\Debug\ClaseDeMonogame.pdb
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C12 - Monogame2\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\Content\Entrenador.xnb
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\Content\Sprite.xnb
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\ClaseDeMonogame.exe
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\ClaseDeMonogame.pdb
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\obj\x86\Debug\ClaseDeMonogame.csprojResolveAssemblyReference.cache
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\obj\x86\Debug\ClaseDeMonogame.exe
+C:\Users\Dániel\Documents\Trabajos Lenguajes\Trabajos-Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\obj\x86\Debug\ClaseDeMonogame.pdb
+C:\Users\Dániel\Documents\GitHub\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\Content\Sprite.xnb
+C:\Users\Dániel\Documents\GitHub\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\ClaseDeMonogame.exe
+C:\Users\Dániel\Documents\GitHub\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\ClaseDeMonogame.pdb
+C:\Users\Dániel\Documents\GitHub\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Dániel\Documents\GitHub\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Dániel\Documents\GitHub\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Dániel\Documents\GitHub\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Dániel\Documents\GitHub\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Dániel\Documents\GitHub\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Dániel\Documents\GitHub\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Dániel\Documents\GitHub\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Dániel\Documents\GitHub\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Dániel\Documents\GitHub\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Dániel\Documents\GitHub\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Dániel\Documents\GitHub\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Dániel\Documents\GitHub\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Dániel\Documents\GitHub\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Dániel\Documents\GitHub\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Dániel\Documents\GitHub\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Dániel\Documents\GitHub\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Dániel\Documents\GitHub\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Dániel\Documents\GitHub\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\obj\x86\Debug\ClaseDeMonogame.csprojResolveAssemblyReference.cache
+C:\Users\Dániel\Documents\GitHub\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\obj\x86\Debug\ClaseDeMonogame.exe
+C:\Users\Dániel\Documents\GitHub\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\obj\x86\Debug\ClaseDeMonogame.pdb
+C:\Users\Dániel\Documents\GitHub\Trabajos Activos\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\Content\Sprite.xnb
+C:\Users\Dániel\Documents\GitHub\Trabajos Activos\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\ClaseDeMonogame.exe
+C:\Users\Dániel\Documents\GitHub\Trabajos Activos\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\ClaseDeMonogame.pdb
+C:\Users\Dániel\Documents\GitHub\Trabajos Activos\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Dániel\Documents\GitHub\Trabajos Activos\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Dániel\Documents\GitHub\Trabajos Activos\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Dániel\Documents\GitHub\Trabajos Activos\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Dániel\Documents\GitHub\Trabajos Activos\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Dániel\Documents\GitHub\Trabajos Activos\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Dániel\Documents\GitHub\Trabajos Activos\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Dániel\Documents\GitHub\Trabajos Activos\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Dániel\Documents\GitHub\Trabajos Activos\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Dániel\Documents\GitHub\Trabajos Activos\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Dániel\Documents\GitHub\Trabajos Activos\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Dániel\Documents\GitHub\Trabajos Activos\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Dániel\Documents\GitHub\Trabajos Activos\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Dániel\Documents\GitHub\Trabajos Activos\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Dániel\Documents\GitHub\Trabajos Activos\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Dániel\Documents\GitHub\Trabajos Activos\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Dániel\Documents\GitHub\Trabajos Activos\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Dániel\Documents\GitHub\Trabajos Activos\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Dániel\Documents\GitHub\Trabajos Activos\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\obj\x86\Debug\ClaseDeMonogame.csprojResolveAssemblyReference.cache
+C:\Users\Dániel\Documents\GitHub\Trabajos Activos\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\obj\x86\Debug\ClaseDeMonogame.exe
+C:\Users\Dániel\Documents\GitHub\Trabajos Activos\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\obj\x86\Debug\ClaseDeMonogame.pdb
+D:\Unity Proyect\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\Content\Sprite.xnb
+D:\Unity Proyect\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\ClaseDeMonogame.exe
+D:\Unity Proyect\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\ClaseDeMonogame.pdb
+D:\Unity Proyect\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Unity Proyect\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Unity Proyect\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.dll
+D:\Unity Proyect\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Unity Proyect\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Unity Proyect\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Unity Proyect\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Unity Proyect\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Unity Proyect\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Unity Proyect\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Unity Proyect\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Unity Proyect\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.xml
+D:\Unity Proyect\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Unity Proyect\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Unity Proyect\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Unity Proyect\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Unity Proyect\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Unity Proyect\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Unity Proyect\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\obj\x86\Debug\ClaseDeMonogame.csprojResolveAssemblyReference.cache
+D:\Unity Proyect\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\obj\x86\Debug\ClaseDeMonogame.csproj.CoreCompileInputs.cache
+D:\Unity Proyect\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\obj\x86\Debug\ClaseDeMonogame.exe
+D:\Unity Proyect\Trabajos Lenguajes\C13 - Monogame3\ClaseDeMonogame\ClaseDeMonogame\obj\x86\Debug\ClaseDeMonogame.pdb
+D:\Unity Proyect\Trabajos Lenguajes\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\ClaseDeMonogame.exe
+D:\Unity Proyect\Trabajos Lenguajes\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\ClaseDeMonogame.pdb
+D:\Unity Proyect\Trabajos Lenguajes\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Unity Proyect\Trabajos Lenguajes\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Unity Proyect\Trabajos Lenguajes\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.dll
+D:\Unity Proyect\Trabajos Lenguajes\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Unity Proyect\Trabajos Lenguajes\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Unity Proyect\Trabajos Lenguajes\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Unity Proyect\Trabajos Lenguajes\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Unity Proyect\Trabajos Lenguajes\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Unity Proyect\Trabajos Lenguajes\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Unity Proyect\Trabajos Lenguajes\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Unity Proyect\Trabajos Lenguajes\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Unity Proyect\Trabajos Lenguajes\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.xml
+D:\Unity Proyect\Trabajos Lenguajes\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Unity Proyect\Trabajos Lenguajes\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Unity Proyect\Trabajos Lenguajes\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Unity Proyect\Trabajos Lenguajes\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Unity Proyect\Trabajos Lenguajes\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Unity Proyect\Trabajos Lenguajes\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Unity Proyect\Trabajos Lenguajes\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\obj\x86\Debug\ClaseDeMonogame.csprojResolveAssemblyReference.cache
+D:\Unity Proyect\Trabajos Lenguajes\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\obj\x86\Debug\ClaseDeMonogame.csproj.CoreCompileInputs.cache
+D:\Unity Proyect\Trabajos Lenguajes\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\obj\x86\Debug\ClaseDeMonogame.exe
+D:\Unity Proyect\Trabajos Lenguajes\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\obj\x86\Debug\ClaseDeMonogame.pdb
+D:\Unity Proyect\Trabajos Lenguajes\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\Content\LujoBall.xnb
+D:\Unity Proyect\Trabajos Lenguajes\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\Content\WallT1.xnb
+C:\Users\Asus\Documents\Programacion S2\Laberinto2\ClasesDeProgramacion-master\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\Content\LujoBall.xnb
+C:\Users\Asus\Documents\Programacion S2\Laberinto2\ClasesDeProgramacion-master\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\Content\WallT1.xnb
+C:\Users\Asus\Documents\Programacion S2\Laberinto2\ClasesDeProgramacion-master\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\ClaseDeMonogame.exe
+C:\Users\Asus\Documents\Programacion S2\Laberinto2\ClasesDeProgramacion-master\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\ClaseDeMonogame.pdb
+C:\Users\Asus\Documents\Programacion S2\Laberinto2\ClasesDeProgramacion-master\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Asus\Documents\Programacion S2\Laberinto2\ClasesDeProgramacion-master\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Asus\Documents\Programacion S2\Laberinto2\ClasesDeProgramacion-master\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Asus\Documents\Programacion S2\Laberinto2\ClasesDeProgramacion-master\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Asus\Documents\Programacion S2\Laberinto2\ClasesDeProgramacion-master\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Asus\Documents\Programacion S2\Laberinto2\ClasesDeProgramacion-master\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Asus\Documents\Programacion S2\Laberinto2\ClasesDeProgramacion-master\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Asus\Documents\Programacion S2\Laberinto2\ClasesDeProgramacion-master\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Asus\Documents\Programacion S2\Laberinto2\ClasesDeProgramacion-master\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Asus\Documents\Programacion S2\Laberinto2\ClasesDeProgramacion-master\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Asus\Documents\Programacion S2\Laberinto2\ClasesDeProgramacion-master\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Asus\Documents\Programacion S2\Laberinto2\ClasesDeProgramacion-master\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Asus\Documents\Programacion S2\Laberinto2\ClasesDeProgramacion-master\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Asus\Documents\Programacion S2\Laberinto2\ClasesDeProgramacion-master\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Asus\Documents\Programacion S2\Laberinto2\ClasesDeProgramacion-master\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Asus\Documents\Programacion S2\Laberinto2\ClasesDeProgramacion-master\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Asus\Documents\Programacion S2\Laberinto2\ClasesDeProgramacion-master\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Asus\Documents\Programacion S2\Laberinto2\ClasesDeProgramacion-master\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Asus\Documents\Programacion S2\Laberinto2\ClasesDeProgramacion-master\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\obj\x86\Debug\ClaseDeMonogame.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Programacion S2\Laberinto2\ClasesDeProgramacion-master\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\obj\x86\Debug\ClaseDeMonogame.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Programacion S2\Laberinto2\ClasesDeProgramacion-master\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\obj\x86\Debug\ClaseDeMonogame.exe
+C:\Users\Asus\Documents\Programacion S2\Laberinto2\ClasesDeProgramacion-master\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\obj\x86\Debug\ClaseDeMonogame.pdb
+C:\Users\Asus\Documents\Programacion S2\Laberinto2\ClasesDeProgramacion-master\C14 - Monogame4\ClaseDeMonogame\ClaseDeMonogame\bin\Windows\x86\Debug\Content\Wall.xnb
